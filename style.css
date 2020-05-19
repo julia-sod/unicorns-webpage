@@ -41,3 +41,9 @@ article ul {
     color: darkmagenta;
     font-size: 20px;
 }
+
+aside p {
+    color: cornflowerblue;
+    font-size: 20px;
+    margin-left: 30px;
+}
