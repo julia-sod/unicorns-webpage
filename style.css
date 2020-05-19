@@ -1,49 +1,47 @@
 body {
-    background-color: beige;
+  background-color: beige;
 }
 
 h1 {
-    color: cornflowerblue;
-    text-align: center;
+  color: cornflowerblue;
+  text-align: center;
 }
 
 img {
-    height: 300px;
-    margin-left: 30px;
-    
+  height: 300px;
+  margin-left: 30px;
 }
 
 #footer {
-    color: cornflowerblue;
-    position: absolute;
-    bottom: 0;
+  color: cornflowerblue;
+  position: absolute;
+  bottom: 0;
 }
 
 #paragraph {
-    color: darkmagenta;
-    font-size: 20px;
-    margin-left: 30px;
-    margin-top: 40px;
-
+  color: darkmagenta;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 40px;
 }
 
 #introduction {
-    display: flex;
+  display: flex;
 }
 
 article h1 {
-    text-align: left;
-    margin-left: 30px;
-    font-size: 25px;
+  text-align: left;
+  margin-left: 30px;
+  font-size: 25px;
 }
 
 article ul {
-    color: darkmagenta;
-    font-size: 20px;
+  color: darkmagenta;
+  font-size: 15px;
 }
 
 aside p {
-    color: cornflowerblue;
-    font-size: 20px;
-    margin-left: 30px;
+  color: cornflowerblue;
+  font-size: 20px;
+  margin-left: 30px;
 }
