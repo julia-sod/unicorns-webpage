@@ -2,8 +2,10 @@ body {
     background-color: beige;
 }
 h1 {
-    color: gold;
+    color: cornflowerblue;
+    text-align: center;
 }
 p {
-    color: gold;
-}
+    color: cornflowerblue;
+    position: absolute;
+    bottom: 0;
